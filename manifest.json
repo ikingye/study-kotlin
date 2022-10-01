@@ -1,14 +1,14 @@
 {
   "name": "Kotlin 学习笔记",
   "short_name": "Kotlin 学习笔记",
-  "start_url": "/study-kotlin/",
-  "scope": "/study-kotlin/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/study-kotlin/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
